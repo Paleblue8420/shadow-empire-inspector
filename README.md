@@ -8,7 +8,7 @@ An unofficial reference and learning tool for **Shadow Empire**, designed to mak
 
 Shadow Empire Inspector connects information across mechanics, Stratagems, Technologies, Assets, Models, Equipment, Stats and Skills so that players can follow relationships that are often spread across multiple parts of the game.
 
-The Inspector has been road-tested through a complete Shadow Empire campaign, but Shadow Empire is a complicated beast — if you spot something wrong or have feedback, feel free to ping me on Discord: **Paleblue#8420**.
+The Inspector has been road-tested through a complete Shadow Empire campaign, but Shadow Empire is a complicated beast, if you spot something wrong or have feedback, feel free to ping me on Discord: **Paleblue#8420**.
 
 ## Evidence and provenance
 
