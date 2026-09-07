@@ -10,36 +10,27 @@ Shadow Empire Inspector connects information across mechanics, Stratagems, Techn
 
 The project is currently in a **review / pre-release stage**. It has been road-tested through a complete Shadow Empire campaign, but has not yet been broadly tested by the community.
 
-## Evidence and provenance
+About
+
+Shadow Empire Inspector is an unofficial reference and learning tool for Shadow Empire, designed to make the game's interconnected systems easier to explore and understand while playing.
+
+It connects information across mechanics, Stratagems, Technologies, Assets, Models, Equipment, Stats and Skills, allowing players to follow relationships that are often spread across multiple parts of the game.
+
+The Inspector has been road-tested through a complete Shadow Empire campaign, but Shadow Empire is a complicated beast — if you spot something wrong or have feedback, feel free to ping me on Discord: Paleblue#8420.
+
+Evidence and provenance
 
 The Inspector aims to distinguish between information directly supported by the game and interpretation added to make that information easier to understand.
 
-The current build is based on:
+Mechanical information is primarily grounded in extracted Shadow Empire game data, with the game executable and official documentation used where necessary to investigate or cross-reference behaviour. Community sources are not treated as evidence for game mechanics.
 
-- Shadow Empire game executable build **1.32.264**
-- Vanilla data library **1.32a**
-- Both extracted from the same installed game
-- Official Shadow Empire documentation used as supporting reference
+Artwork & attribution
 
-Where possible, hidden mechanical behaviour has been checked against the matching game executable rather than inferred from community sources.
+Shadow Empire is developed by VR Designs and published by Matrix Games.
 
-Technical View is retained in the Inspector so that underlying data and provenance can be inspected.
+In-game artwork is used in the Inspector with permission of VR Designs. Special thanks to Vic / VR Designs for supporting the project and making the artwork integration possible.
 
-## AI-assisted development
-
-Shadow Empire Inspector is a **human-directed, AI-assisted project**.
-
-The concept, product direction, gameplay questions, testing and design decisions were human-led. OpenAI's ChatGPT was used extensively for programming, data analysis, reverse-engineering assistance, documentation and interface development.
-
-AI-generated conclusions are not intended to be treated as authoritative simply because they appear in the Inspector. The project aims to make its evidence and assumptions inspectable so that errors can be identified and corrected.
-
-## Status
-
-This repository is currently being shared for review before a broader community release.
-
-Licensing, contribution guidelines and the final treatment of game-derived material will be determined before that release.
-
-## Attribution
+Shadow Empire Inspector is an unofficial fan project and is not affiliated with, endorsed by, or sponsored by VR Designs or Matrix Games.
 
 Shadow Empire Inspector is an unofficial fan-made project and is not affiliated with, endorsed by, or sponsored by VR Designs or the publisher of Shadow Empire.
 
