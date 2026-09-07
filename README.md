@@ -8,27 +8,19 @@ An unofficial reference and learning tool for **Shadow Empire**, designed to mak
 
 Shadow Empire Inspector connects information across mechanics, Stratagems, Technologies, Assets, Models, Equipment, Stats and Skills so that players can follow relationships that are often spread across multiple parts of the game.
 
-The project is currently in a **review / pre-release stage**. It has been road-tested through a complete Shadow Empire campaign, but has not yet been broadly tested by the community.
+The Inspector has been road-tested through a complete Shadow Empire campaign, but Shadow Empire is a complicated beast — if you spot something wrong or have feedback, feel free to ping me on Discord: **Paleblue#8420**.
 
-About
-
-Shadow Empire Inspector is an unofficial reference and learning tool for Shadow Empire, designed to make the game's interconnected systems easier to explore and understand while playing.
-
-It connects information across mechanics, Stratagems, Technologies, Assets, Models, Equipment, Stats and Skills, allowing players to follow relationships that are often spread across multiple parts of the game.
-
-The Inspector has been road-tested through a complete Shadow Empire campaign, but Shadow Empire is a complicated beast — if you spot something wrong or have feedback, feel free to ping me on Discord: Paleblue#8420.
-
-Evidence and provenance
+## Evidence and provenance
 
 The Inspector aims to distinguish between information directly supported by the game and interpretation added to make that information easier to understand.
 
 Mechanical information is primarily grounded in extracted Shadow Empire game data, with the game executable and official documentation used where necessary to investigate or cross-reference behaviour. Community sources are not treated as evidence for game mechanics.
 
-Artwork & attribution
+## Artwork & attribution
 
-Shadow Empire is developed by VR Designs and published by Matrix Games.
+**Shadow Empire** is developed by **VR Designs** and published by **Matrix Games**.
 
-In-game artwork is used in the Inspector with permission of VR Designs. Special thanks to Vic / VR Designs for supporting the project and making the artwork integration possible.
+In-game artwork is used in the Inspector with permission of VR Designs. Special thanks to **Vic / VR Designs** for supporting the project and making the artwork integration possible.
 
 Shadow Empire Inspector is an unofficial fan project and is not affiliated with, endorsed by, or sponsored by VR Designs or Matrix Games.
 
